@@ -13,3 +13,6 @@ src/nanocode/static/
 .test-data/
 
 .pytest*/
+
+.local-data/
+.temp/
