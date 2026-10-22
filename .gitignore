@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.env
+.venv/
+.nano-code/
+frontend/node_modules/
+frontend/dist/
+src/nanocode/static/
+.test-data/
+
+.pytest*/

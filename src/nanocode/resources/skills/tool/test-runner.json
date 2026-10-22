@@ -1,0 +1,10 @@
+{
+  "name": "test-runner",
+  "level": "tool",
+  "description": "Run focused tests and report failures with exact commands.",
+  "instructions": "Choose tests tied to changed behavior. Inspect failures, fix the cause, and rerun those tests.",
+  "intents": ["run tests", "verify change", "debug failing test"],
+  "tags": ["pytest", "test", "verification"],
+  "examples": ["Run the tests for this module", "Why does this test fail?"],
+  "boundaries": ["skip tests", "disable tests"]
+}

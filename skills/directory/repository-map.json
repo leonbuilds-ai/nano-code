@@ -1,0 +1,10 @@
+{
+  "name": "repository-map",
+  "level": "directory",
+  "description": "Locate project files and understand repository structure before editing.",
+  "instructions": "Search filenames and relevant text, then inspect the smallest relevant files. State the paths supporting the answer.",
+  "intents": ["find files", "locate module", "explore repository"],
+  "tags": ["repository", "files", "navigation"],
+  "examples": ["Where is the parser implemented?", "Find the configuration file"],
+  "boundaries": ["delete repository", "remove all files"]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<rect width="1100" height="330" rx="12" fill="#0f1114"/>
+<rect x="18" y="18" width="1064" height="294" rx="8" fill="#111a1e" stroke="#235567"/>
+<text x="42" y="55" fill="#23d4f5" font-family="monospace" font-size="16">NANO-CODE / LIVE MODEL TOOL LOOP</text>
+<text x="42" y="95" fill="#dbe8ec" font-family="monospace" font-size="16">$ nano-code chat &quot;Read probe.txt and return its exact line&quot;</text>
+<text x="42" y="127" fill="#dbe8ec" font-family="monospace" font-size="16">model    qwen3.5:9b</text>
+<text x="42" y="159" fill="#dbe8ec" font-family="monospace" font-size="16">tool     read_file({&quot;path&quot;:&quot;probe.txt&quot;})</text>
+<text x="42" y="191" fill="#30dc8d" font-family="monospace" font-size="16">result   NANO_INDEPENDENT_CHECK_OK</text>
+<text x="42" y="223" fill="#30dc8d" font-family="monospace" font-size="16">answer   NANO_INDEPENDENT_CHECK_OK</text>
+<text x="42" y="255" fill="#30dc8d" font-family="monospace" font-size="16">status   PASS  |  10.38s  |  writes denied</text>
+</svg>

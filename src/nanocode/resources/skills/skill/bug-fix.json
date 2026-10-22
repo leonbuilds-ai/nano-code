@@ -1,0 +1,10 @@
+{
+  "name": "bug-fix",
+  "level": "skill",
+  "description": "Trace a reproducible software bug and make a targeted fix.",
+  "instructions": "Reproduce the behavior, identify its cause, make the smallest correct change, and verify with a focused test.",
+  "intents": ["fix bug", "repair error", "debug issue"],
+  "tags": ["bug", "error", "repair"],
+  "examples": ["Fix the failing parser", "This function raises an error"],
+  "boundaries": ["feature request only", "write documentation only"]
+}

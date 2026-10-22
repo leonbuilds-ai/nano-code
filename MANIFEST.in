@@ -1,0 +1,7 @@
+include LICENSE README.md .env.example
+recursive-include docs *.md *.svg
+recursive-include skills *.json
+recursive-include frontend *.vue *.js *.mjs *.css *.html *.json
+prune frontend/node_modules
+prune frontend/dist
+recursive-include scripts *.py
