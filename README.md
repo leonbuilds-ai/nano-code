@@ -6,7 +6,7 @@
 
 从任务理解、工具执行到结果复核，让每一步都有上下文、有边界、可追溯。
 
-[![CI](https://github.com/leonbuilds-ai/nano-code/actions/workflows/ci.yml/badge.svg?branch=codex/independent-rewrite)](https://github.com/leonbuilds-ai/nano-code/actions/workflows/ci.yml)
+[![CI](https://github.com/leonbuilds-ai/nano-code/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/leonbuilds-ai/nano-code/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-local_API-009688?logo=fastapi&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white)
